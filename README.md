@@ -46,7 +46,7 @@ Angles with respect to the XY and XZ planes are updated in real-time.
 Generating the Results.csv with Fiji
 To obtain the data required for Results.csv, you can use Fiji (an open-source image processing package). Here's how to use Fiji to extract the necessary information:
 
-Capture Images:
+Capture Images: (See Camera Setup.png)
 
 Use your dual-camera system (with overhead and side view cameras) to capture synchronized images of the target object.
 Process with Fiji:
